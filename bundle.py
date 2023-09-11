@@ -1,5 +1,4 @@
 import cv2
-from playsound import playsound
 from beep import beep
 
 url="http://192.168.20.113:8080/video"

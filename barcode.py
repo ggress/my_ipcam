@@ -1,5 +1,4 @@
 import cv2
-from playsound import playsound
 from beep import beep
 
 bd = cv2.barcode.BarcodeDetector()
